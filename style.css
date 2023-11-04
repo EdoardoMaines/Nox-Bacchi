@@ -129,12 +129,12 @@ button img {
     z-index: -1;
     text-align: center;
 }
-#contenutoNascosto{
+/* #contenutoNascosto{
   flex-direction: column;
   justify-content: center;
   align-items: center;
   
-}
+} */
 .border-radius {
     border-radius: 10px;
 }
