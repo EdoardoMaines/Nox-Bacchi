@@ -54,7 +54,7 @@ function chiudiPopupPassword() {
     popup_password.style.display = 'none';
     // Mostra il contenuto nascosto
     var contenutoNascosto = document.getElementById('contenutoNascosto');
-    contenutoNascosto.style.display = 'flex';
+    contenutoNascosto.style.display = 'block';
 }
 
 // Funzione per chiudere il secondo popup
