@@ -133,7 +133,7 @@ button img {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  
 }
 .border-radius {
     border-radius: 10px;
