@@ -160,11 +160,11 @@ button img {
     margin-right: 40px;
     margin-bottom: 30px;
     font-family: "Papyrus", fantasy;
-    font-size: 45pt;
+    font-size: 25pt;
 }
 #final_mess {
     margin-top: 300px;
-    font-size: 30pt;
+    font-size: 15pt;
     color: grey;
     animation: parchmentTremble 0.5s infinite alternate ease-in-out;
 }
