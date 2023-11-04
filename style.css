@@ -177,12 +177,21 @@ button img {
     color: grey;
     animation: parchmentTremble 0.5s infinite alternate ease-in-out;
 }
-#final_mess_2 {
+/* #final_mess_2 {
     margin-top: 0px;
     font-size: 20pt;
     color: grey;
     animation: parchmentTremble 0.5s infinite alternate ease-in-out;
+} */
+
+#link_whatsapp {
+    display: none;
+    font-size: 15pt;
+    font-family: "Papyrus", fantasy;
 }
+#link_whatsapp a {
+    color: black;
+  }
 
 
 @keyframes parchmentTremble {

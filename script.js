@@ -82,3 +82,10 @@ window.onload = function() {
 //         chiudiPopup();
 //     }
 // }
+function mostraLink() {
+    var button_giuramento = document.getElementById('button_giuramento');
+    var link = document.getElementById('link_whatsapp');
+
+    button_giuramento.style.display = "none";
+    link.style.display = "block";
+}
