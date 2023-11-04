@@ -163,7 +163,7 @@ button img {
     font-size: 45pt;
 }
 #final_mess {
-    margin-top: 1000px;
+    margin-top: 500px;
     font-size: 30pt;
     color: grey;
     animation: parchmentTremble 0.5s infinite alternate ease-in-out;
