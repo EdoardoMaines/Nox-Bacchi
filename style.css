@@ -163,13 +163,13 @@ button img {
     font-size: 25pt;
 }
 #final_mess {
-    margin-top: 100px;
+    margin-top: 150px;
     font-size: 20pt;
     color: grey;
     animation: parchmentTremble 0.5s infinite alternate ease-in-out;
 }
 #final_mess_2 {
-    margin-top: 10px;
+    margin-top: 0px;
     font-size: 20pt;
     color: grey;
     animation: parchmentTremble 0.5s infinite alternate ease-in-out;
