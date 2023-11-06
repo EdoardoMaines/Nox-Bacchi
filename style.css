@@ -121,7 +121,7 @@ button img {
 }
 
 .hidden {
-    display: none;
+    display: block;
     background-color: #800020;
     color: #ffffff;
     position: absolute;

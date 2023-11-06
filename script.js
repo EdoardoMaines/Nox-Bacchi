@@ -43,28 +43,28 @@ function moveCircular() {
 moveCircular();
 
 // Funzione per mostrare un popup
-function mostraPopup(id) {
-    var popup = document.getElementById(id);
-    popup.style.display = 'block';
-}
+// function mostraPopup(id) {
+//     var popup = document.getElementById(id);
+//     popup.style.display = 'block';
+// }
 
 // Funzione per chiudere il primo popup e aprire il secondo
-function chiudiPopupPassword() {
-    var popup_password = document.getElementById('popup_password');
-    popup_password.style.display = 'none';
-    // Mostra il contenuto nascosto
-    var contenutoNascosto = document.getElementById('contenutoNascosto');
-    contenutoNascosto.style.display = 'block';
-}
+// function chiudiPopupPassword() {
+//     var popup_password = document.getElementById('popup_password');
+//     popup_password.style.display = 'none';
+//     // Mostra il contenuto nascosto
+//     var contenutoNascosto = document.getElementById('contenutoNascosto');
+//     contenutoNascosto.style.display = 'block';
+// }
 
 // Funzione per chiudere il secondo popup
-function chiudiPopupNome() {
-    var popup_nome = document.getElementById('popup_nome');
-    var popup_password = document.getElementById('popup_password');
+// function chiudiPopupNome() {
+//     var popup_nome = document.getElementById('popup_nome');
+//     var popup_password = document.getElementById('popup_password');
 
-    popup_nome.style.display = 'none';
-    popup_password.style.display = 'flex'
-}
+//     popup_nome.style.display = 'none';
+//     popup_password.style.display = 'flex'
+// }
 
 // Mostra solo il primo popup quando la pagina è completamente caricata
 window.onload = function() {
