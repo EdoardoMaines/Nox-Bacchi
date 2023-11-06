@@ -89,3 +89,4 @@ function mostraLink() {
     button_giuramento.style.display = "none";
     link.style.display = "block";
 }
+
